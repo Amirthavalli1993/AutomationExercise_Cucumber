@@ -89,8 +89,7 @@ public class steps
 	{
 		BaseClass.getLogger().info("User verifying the username");
 		String name=home.VerifyLoggedIn();
-		System.out.println(name);
-		Assert.assertEquals("Logged in as "+uname, name);
+		Assert.assertEquals(uname, name);
 	}
 
 	@When("the user deletes the account")

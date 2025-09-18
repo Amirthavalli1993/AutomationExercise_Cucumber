@@ -1,4 +1,5 @@
 Feature: Register
+		@Regression
 	Scenario:
 		Given the user is on Home Page
 		When the user clicks on SignuporLogin button 

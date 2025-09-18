@@ -1,0 +1,88 @@
+13:50:05.965 [main] INFO  - The user is on Home Page
+13:50:13.290 [main] INFO  - The user clicking signup button
+13:50:16.368 [main] INFO  - User enters name and email address
+13:50:19.496 [main] INFO  - User filling required details and clicking Create Account button
+13:50:26.945 [main] INFO  - The user clicking continue button
+13:50:30.170 [main] INFO  - User verifying the username
+13:50:30.233 [main] INFO  - The user deleting the account
+13:50:31.749 [main] INFO  - Vefirying if the accoutn deleted
+13:55:18.575 [main] INFO  - The user is on Home Page
+13:55:19.964 [main] INFO  - The user clicking signup button
+13:55:21.988 [main] INFO  - User enters name and email address
+13:55:39.255 [main] INFO  - User filling required details and clicking Create Account button
+13:55:49.298 [main] INFO  - The user clicking continue button
+13:55:52.702 [main] INFO  - User verifying the username
+13:55:52.786 [main] INFO  - The user deleting the account
+13:55:55.489 [main] INFO  - Vefirying if the accoutn deleted
+14:31:24.894 [main] INFO  - The user is on Home Page
+14:31:30.485 [main] INFO  - The user clicking signup button
+14:36:18.107 [main] INFO  - The user is on Home Page
+14:36:23.191 [main] INFO  - The user clicking signup button
+14:36:25.876 [main] INFO  - Entering email id and password
+14:38:25.976 [main] INFO  - The user is on Home Page
+14:38:26.831 [main] INFO  - The user clicking signup button
+14:38:29.252 [main] INFO  - Entering email id and password
+14:38:30.194 [main] INFO  - Clicking on Login button
+14:39:46.390 [main] INFO  - The user is on Home Page
+14:39:47.061 [main] INFO  - The user clicking signup button
+14:39:48.966 [main] INFO  - Entering email id and password
+14:39:49.784 [main] INFO  - Clicking on Login button
+14:39:55.855 [main] INFO  - User verifying the username
+14:42:49.243 [main] INFO  - The user is on Home Page
+14:42:49.516 [main] INFO  - The user clicking signup button
+14:42:51.608 [main] INFO  - Entering email id and password
+14:42:52.337 [main] INFO  - Clicking on Login button
+14:43:11.419 [main] INFO  - User verifying the username
+14:45:50.201 [main] INFO  - The user is on Home Page
+14:45:50.568 [main] INFO  - The user clicking signup button
+14:45:52.077 [main] INFO  - Entering email id and password
+14:45:52.912 [main] INFO  - Clicking on Login button
+14:45:53.080 [main] INFO  - User verifying the username
+14:49:13.904 [main] INFO  - The user is on Home Page
+14:49:17.565 [main] INFO  - The user clicking signup button
+14:49:20.624 [main] INFO  - Entering email id and password
+14:49:21.621 [main] INFO  - Clicking on Login button
+14:49:21.858 [main] INFO  - User verifying the username
+14:55:21.115 [main] INFO  - The user is on Home Page
+14:55:21.555 [main] INFO  - The user clicking signup button
+14:55:24.204 [main] INFO  - Entering email id and password
+14:55:25.081 [main] INFO  - Clicking on Login button
+14:55:25.290 [main] INFO  - User verifying the username
+14:55:30.570 [main] INFO  - Clicking on the logout button
+15:21:18.763 [main] INFO  - The user is on Home Page
+15:21:19.443 [main] INFO  - The user clicking signup button
+15:21:22.055 [main] INFO  - Entering email id and password
+15:21:22.728 [main] INFO  - Clicking on Login button
+15:21:27.746 [main] INFO  - User verifying the username
+15:21:34.312 [main] INFO  - Clicking on the logout button
+16:01:20.685 [main] INFO  - The user is on Home Page
+16:01:21.033 [main] INFO  - The user clicking signup button
+16:01:23.351 [main] INFO  - User enters name and email address
+16:01:25.541 [main] INFO  - Registering with DataTable concepts
+16:01:30.860 [main] INFO  - Clicking create account button
+16:01:40.103 [main] INFO  - The user clicking continue button
+16:01:43.014 [main] INFO  - User verifying the username
+16:01:43.425 [main] INFO  - The user deleting the account
+16:01:44.418 [main] INFO  - Vefirying if the accoutn deleted
+17:52:50.481 [main] INFO  - The user is on Home Page
+17:52:50.871 [main] INFO  - The user clicking signup button
+17:52:52.722 [main] INFO  - Entering email id and password
+17:52:53.822 [main] INFO  - Clicking on Login button
+17:52:59.499 [main] INFO  - User verifying the username
+17:52:59.612 [main] INFO  - Clicking on the logout button
+17:53:25.452 [main] INFO  - The user is on Home Page
+17:53:25.543 [main] INFO  - The user clicking signup button
+17:53:33.602 [main] INFO  - Entering email id and password
+17:53:34.218 [main] INFO  - Clicking on Login button
+17:53:36.235 [main] INFO  - User verifying the username
+18:08:48.822 [main] INFO  - The user is on Home Page
+18:08:54.304 [main] INFO  - The user clicking signup button
+18:08:57.494 [main] INFO  - Entering email id and password
+18:08:59.283 [main] INFO  - Clicking on Login button
+18:09:07.543 [main] INFO  - User verifying the username
+18:09:07.839 [main] INFO  - Clicking on the logout button
+18:09:30.486 [main] INFO  - The user is on Home Page
+18:09:30.791 [main] INFO  - The user clicking signup button
+18:09:33.865 [main] INFO  - Entering email id and password
+18:09:42.651 [main] INFO  - Clicking on Login button
+18:09:42.858 [main] INFO  - User verifying the username

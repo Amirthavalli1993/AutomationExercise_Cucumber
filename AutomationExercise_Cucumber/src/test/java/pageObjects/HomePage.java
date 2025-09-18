@@ -23,7 +23,7 @@ public class HomePage extends BasePage
 	@FindBy(how=How.XPATH, using="//a[normalize-space()='Delete Account']")
 	WebElement btnDeleteAccount;
 	
-	@FindBy(how=How.XPATH, using="//ul[@class='nav navbar-nav']/li[10]/a")
+	@FindBy(how=How.XPATH, using="//ul[@class='nav navbar-nav']/li[10]/a/b")
 	WebElement btnLoggedInAs;
 	
 	@FindBy(how=How.XPATH, using="//a[normalize-space()='Logout']")
