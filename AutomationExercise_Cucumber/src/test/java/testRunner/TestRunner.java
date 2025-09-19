@@ -10,7 +10,8 @@ import io.cucumber.junit.CucumberOptions;
     //features = {"src/test/resources/features/"},
 	//features= {"src/test/resources/features/Login.feature"},
 	//features= {"src/test/resources/features/RegisterUsingDataTable.feature"},
-	features= {"src/test/resources/features/LoginScenarioOutline.feature"},
+	//features= {"src/test/resources/features/LoginScenarioOutline.feature"},
+	features= {"src/test/resources/features/LoginDDTusingExcel.feature"},
     glue = {"stepDefinitions", "hooks"},
     plugin = {
         "pretty", "html:reports/myreport.html"
